@@ -1,12 +1,9 @@
-# pa2-pa2-dariana-jeanpaul
-pa2-pa2-dariana-jeanpaul created by GitHub Classroom
+# pa2-jeanpaul
 
 
 Jeanpaul D. Ortiz
 jeanpaul.ortiz1@upr.edu
  
-Dariana J Troche Quinones
-dariana.troche@upr.edu
 
 
 Changes:
